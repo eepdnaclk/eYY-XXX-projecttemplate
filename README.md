@@ -1,6 +1,6 @@
 # eYY-XXX-projecttemplate
 This is a template for the github repo for your projects. <br>
-Delete this text after you create your page.
+Take a look at the [ComputerEng](https://github.com/cepdnaclk) department page and do any creative stuff that you see might be good if you are omfortable. Delete this text after you create your page.
 
 ## Project title or catchphrase
 Give a brief introduction of your project here
